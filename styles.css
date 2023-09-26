@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-.NT2 tr th{
-	padding:0px 20px ;
-	
-}
-.NT1 tr th{
-	padding:20px 20px 0px
+table,tr,td,th{
+                border: 2px solid black;
+				
+            }
+.margin{
+	margin:30px 90px 30px 0px;
 }
